@@ -16,7 +16,7 @@ namespace Git_Calculator_BSBO_04_21
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Calcultor());
         }
     }
 }
